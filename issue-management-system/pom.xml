@@ -56,11 +56,12 @@
 	<build>
 		<finalName>issue-management-system</finalName>
 		<pluginManagement>
-			
+
 		</pluginManagement>
 	</build>
 	<modules>
 		<module>ims-users</module>
 		<module>ims-security</module>
+		<module>ims-issues</module>
 	</modules>
 </project>
